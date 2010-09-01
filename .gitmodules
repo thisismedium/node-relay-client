@@ -1,6 +1,3 @@
 [submodule "deps/iterators.js"]
 	path = deps/iterators.js
 	url = git://github.com/jamessanders/iterators.js.git
-[submodule "deps/restler"]
-	path = deps/restler
-	url = git://github.com/danwrong/restler.git

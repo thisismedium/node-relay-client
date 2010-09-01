@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "Medium <labs@thisismedium.com>",
   "contributors": [],
-  "dependencies": {},
+  "dependencies": {"request":"*"},
   "keywords": [],
   "directories": { "lib": "./lib/node-relay-client" },
   "engines": { "node": ">= 0.1.104" }
