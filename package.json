@@ -1,7 +1,7 @@
 {
   "name": "node-relay-client",
   "description": "a client library for Relay.io",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Medium <labs@thisismedium.com>",
   "contributors": [],
   "dependencies": {"request":"*"},
